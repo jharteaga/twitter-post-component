@@ -1,7 +1,8 @@
 import React from 'react';
+import ProfileImage from '../../img/ProfileImage.jpg';
 
 const Profile = () => {
-  return <h5>Profile Image</h5>;
+  return <img src={ProfileImage} alt="profile" className="post__image" />;
 };
 
 export default Profile;

@@ -10,11 +10,10 @@ class Tweet extends Component {
   render() {
     return (
       <React.Fragment>
-        <h5>Tweet</h5>
         <div className="post__content">
           <TweetContent />
         </div>
-        <div className="actions">
+        <div className="post__actions">
           <Comment />
           <Retweet />
           <Like />

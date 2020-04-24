@@ -7,7 +7,6 @@ class Post extends Component {
   render() {
     return (
       <React.Fragment>
-        <h2>Post Component</h2>
         <div className="post__profile">
           <Profile />
         </div>

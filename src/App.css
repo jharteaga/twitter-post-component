@@ -1,3 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,900&display=swap');
+
 .App {
   text-align: center;
+}
+
+.post {
+  display: flex;
+  width: 55%;
+  max-width: 400px;
+  margin: 0 auto;
+  border-top: 2px solid rgba(0, 0, 0, 0.11);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.11);
+  border-radius: 5px;
+  padding: 10px 0 10px 15px;
+}
+
+.post__image {
+  border-radius: 100%;
+  width: 40px;
+}
+
+.post__tweet {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: 'Roboto', sans-serif;
+  padding: 0 10px;
+}
+
+.post__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.tweet__title {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.tweet__account {
+  font-size: 0.8rem;
+  padding-left: 0.5rem;
+  color: rgb(117, 117, 117);
+}
+
+.tweet__message {
+  font-size: 0.8rem;
+  text-align: justify;
+  padding-right: 1.5em;
+  margin-top: 0.5em;
+  line-height: 18px;
+}
+
+.post__actions {
+  display: flex;
+  width: 70%;
+  justify-content: space-between;
+}
+
+.comment::after {
+  content: '2';
+  padding-left: 0.5em;
+  font-size: 0.7rem;
+}
+
+.retweet.active {
+  color: green;
+  font-weight: 600;
+}
+
+.retweet span {
+  padding-left: 0.5em;
+  font-size: 0.7rem;
+}
+
+.like.active {
+  color: red;
+  font-weight: 600;
+}
+
+.like span {
+  padding-left: 0.5em;
+  font-size: 0.7rem;
 }
