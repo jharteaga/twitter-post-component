@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef90f44e.chunk.css",
-    "main.js": "/static/js/main.57684749.chunk.js",
-    "main.js.map": "/static/js/main.57684749.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c715f123.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c715f123.js.map",
-    "static/css/2.97be3157.chunk.css": "/static/css/2.97be3157.chunk.css",
-    "static/js/2.7567f7dc.chunk.js": "/static/js/2.7567f7dc.chunk.js",
-    "static/js/2.7567f7dc.chunk.js.map": "/static/js/2.7567f7dc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.76af6665d4d01f511761d8e660c5e262.js": "/precache-manifest.76af6665d4d01f511761d8e660c5e262.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.97be3157.chunk.css.map": "/static/css/2.97be3157.chunk.css.map",
-    "static/css/main.ef90f44e.chunk.css.map": "/static/css/main.ef90f44e.chunk.css.map",
-    "static/js/2.7567f7dc.chunk.js.LICENSE.txt": "/static/js/2.7567f7dc.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/twitter-post-component/static/css/main.ef90f44e.chunk.css",
+    "main.js": "/twitter-post-component/static/js/main.65825e48.chunk.js",
+    "main.js.map": "/twitter-post-component/static/js/main.65825e48.chunk.js.map",
+    "runtime-main.js": "/twitter-post-component/static/js/runtime-main.6250f2cc.js",
+    "runtime-main.js.map": "/twitter-post-component/static/js/runtime-main.6250f2cc.js.map",
+    "static/css/2.1912a8e6.chunk.css": "/twitter-post-component/static/css/2.1912a8e6.chunk.css",
+    "static/js/2.1dc95ee6.chunk.js": "/twitter-post-component/static/js/2.1dc95ee6.chunk.js",
+    "static/js/2.1dc95ee6.chunk.js.map": "/twitter-post-component/static/js/2.1dc95ee6.chunk.js.map",
+    "index.html": "/twitter-post-component/index.html",
+    "precache-manifest.b3dab5dde15a96a8b111dc6f73e2d03c.js": "/twitter-post-component/precache-manifest.b3dab5dde15a96a8b111dc6f73e2d03c.js",
+    "service-worker.js": "/twitter-post-component/service-worker.js",
+    "static/css/2.1912a8e6.chunk.css.map": "/twitter-post-component/static/css/2.1912a8e6.chunk.css.map",
+    "static/css/main.ef90f44e.chunk.css.map": "/twitter-post-component/static/css/main.ef90f44e.chunk.css.map",
+    "static/js/2.1dc95ee6.chunk.js.LICENSE.txt": "/twitter-post-component/static/js/2.1dc95ee6.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/twitter-post-component/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c715f123.js",
-    "static/css/2.97be3157.chunk.css",
-    "static/js/2.7567f7dc.chunk.js",
+    "static/js/runtime-main.6250f2cc.js",
+    "static/css/2.1912a8e6.chunk.css",
+    "static/js/2.1dc95ee6.chunk.js",
     "static/css/main.ef90f44e.chunk.css",
-    "static/js/main.57684749.chunk.js"
+    "static/js/main.65825e48.chunk.js"
   ]
 }
