@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51361b4c443d5b03389f478e63f8c7d7",
+    "revision": "12741ec19495808b4b8d51ae02a745f9",
     "url": "/twitter-post-component/index.html"
   },
   {
-    "revision": "25ccc188d043867971a0",
+    "revision": "2ad5e09832e46c291447",
     "url": "/twitter-post-component/static/css/2.1912a8e6.chunk.css"
   },
   {
-    "revision": "d69a456f05b04d140d26",
+    "revision": "22b6270cca93e009fc52",
     "url": "/twitter-post-component/static/css/main.ef90f44e.chunk.css"
   },
   {
-    "revision": "25ccc188d043867971a0",
-    "url": "/twitter-post-component/static/js/2.1dc95ee6.chunk.js"
+    "revision": "2ad5e09832e46c291447",
+    "url": "/twitter-post-component/static/js/2.dd150302.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/twitter-post-component/static/js/2.1dc95ee6.chunk.js.LICENSE.txt"
+    "url": "/twitter-post-component/static/js/2.dd150302.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d69a456f05b04d140d26",
-    "url": "/twitter-post-component/static/js/main.65825e48.chunk.js"
+    "revision": "22b6270cca93e009fc52",
+    "url": "/twitter-post-component/static/js/main.c19840d8.chunk.js"
   },
   {
     "revision": "21e47895ffa194e690b6",
