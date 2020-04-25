@@ -1,32 +1,17 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Save extends Component {
-  state = {
-    save: false,
-  };
+const Save = (props) => {
+  let iconClasses = 'save fa fa-bookmark';
+  if (!props.save) iconClasses += '-o';
 
-  handleSave = () => {
-    const save = !this.state.save;
-    this.setState({ save });
-  };
-
-  render() {
-    let iconClasses = 'save fa fa-bookmark';
-    if (!this.state.save) iconClasses += '-o';
-
-    return (
-      <i
-        className={iconClasses}
-        aria-hidden="true"
-        onClick={this.handleSave}
-        style={{ cursor: 'pointer' }}
-      ></i>
-    );
-  }
-}
-
-// const Save = () => {
-//   return <i className="save fa fa-bookmark-o" aria-hidden="true"></i>;
-// };
+  return (
+    <i
+      className={iconClasses}
+      aria-hidden="true"
+      onClick={props.onClick}
+      style={{ cursor: 'pointer' }}
+    ></i>
+  );
+};
 
 export default Save;

@@ -10,7 +10,7 @@ const TweetContent = () => {
       <p className="tweet__message">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi
         molestiae voluptate est dolorum eius, fugiat pariatur saepe alias nobis
-        tempora. Deleniti, mollitia? Fugit deleniti praesentium libero soluta
+        tempora. Deleniti, mollitia Fugit deleniti praesentium libero soluta
         assumenda optio quidem.
       </p>
     </React.Fragment>

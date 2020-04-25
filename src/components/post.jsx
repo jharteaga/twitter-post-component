@@ -3,7 +3,6 @@ import Profile from './commons/profile';
 import Tweet from './tweet';
 
 class Post extends Component {
-  state = {};
   render() {
     return (
       <React.Fragment>
